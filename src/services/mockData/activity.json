@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "type": "call",
+    "description": "had a discovery call with TechFlow Solutions",
+    "timestamp": "2024-01-20T14:45:00Z",
+    "relatedContactId": 1,
+    "relatedDealId": 1,
+    "icon": "Phone"
+  },
+  {
+    "id": 2,
+    "type": "email",
+    "description": "sent proposal to Innovate Labs",
+    "timestamp": "2024-01-20T11:30:00Z",
+    "relatedContactId": 2,
+    "relatedDealId": 2,
+    "icon": "Mail"
+  },
+  {
+    "id": 3,
+    "type": "meeting",
+    "description": "scheduled demo with Global Corp",
+    "timestamp": "2024-01-19T16:15:00Z",
+    "relatedContactId": 3,
+    "relatedDealId": 3,
+    "icon": "Calendar"
+  },
+  {
+    "id": 4,
+    "type": "note",
+    "description": "added follow-up notes for Streamline Co",
+    "timestamp": "2024-01-19T10:20:00Z",
+    "relatedContactId": 4,
+    "relatedDealId": 4,
+    "icon": "FileText"
+  },
+  {
+    "id": 5,
+    "type": "deal",
+    "description": "closed deal with Digital Pro",
+    "timestamp": "2024-01-18T15:45:00Z",
+    "relatedContactId": 5,
+    "relatedDealId": 5,
+    "icon": "CheckCircle"
+  },
+  {
+    "id": 6,
+    "type": "email",
+    "description": "sent pricing information to NextTech Ventures",
+    "timestamp": "2024-01-18T09:30:00Z",
+    "relatedContactId": 6,
+    "relatedDealId": 6,
+    "icon": "Mail"
+  },
+  {
+    "id": 7,
+    "type": "call",
+    "description": "technical discussion with Cloud Solutions",
+    "timestamp": "2024-01-17T14:00:00Z",
+    "relatedContactId": 7,
+    "relatedDealId": 7,
+    "icon": "Phone"
+  },
+  {
+    "id": 8,
+    "type": "meeting",
+    "description": "initial consultation with Smart Analytics AI",
+    "timestamp": "2024-01-17T11:15:00Z",
+    "relatedContactId": 8,
+    "relatedDealId": 8,
+    "icon": "Calendar"
+  },
+  {
+    "id": 9,
+    "type": "proposal",
+    "description": "submitted contract to RetailMax",
+    "timestamp": "2024-01-16T16:30:00Z",
+    "relatedContactId": 9,
+    "relatedDealId": 9,
+    "icon": "FileCheck"
+  },
+  {
+    "id": 10,
+    "type": "email",
+    "description": "shared compliance documentation with FinTech Plus",
+    "timestamp": "2024-01-16T13:45:00Z",
+    "relatedContactId": 10,
+    "relatedDealId": 10,
+    "icon": "Mail"
+  },
+  {
+    "id": 11,
+    "type": "call",
+    "description": "HIPAA requirements call with HealthTech Solutions",
+    "timestamp": "2024-01-15T12:20:00Z",
+    "relatedContactId": 11,
+    "relatedDealId": 11,
+    "icon": "Phone"
+  },
+  {
+    "id": 12,
+    "type": "note",
+    "description": "documented security requirements for CyberSec Corp",
+    "timestamp": "2024-01-15T09:10:00Z",
+    "relatedContactId": 12,
+    "relatedDealId": 12,
+    "icon": "FileText"
+  },
+  {
+    "id": 13,
+    "type": "task",
+    "description": "created follow-up task for TechFlow Solutions",
+    "timestamp": "2024-01-14T17:30:00Z",
+    "relatedContactId": 1,
+    "relatedDealId": null,
+    "icon": "CheckSquare"
+  },
+  {
+    "id": 14,
+    "type": "contact",
+    "description": "added new contact from Innovate Labs",
+    "timestamp": "2024-01-14T11:20:00Z",
+    "relatedContactId": 2,
+    "relatedDealId": null,
+    "icon": "UserPlus"
+  },
+  {
+    "id": 15,
+    "type": "meeting",
+    "description": "completed product demo for Global Corp",
+    "timestamp": "2024-01-13T14:45:00Z",
+    "relatedContactId": 3,
+    "relatedDealId": 3,
+    "icon": "Video"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "content": "Follow up with TechFlow Solutions about enterprise security features by Friday",
+    "createdAt": "2024-01-20T15:30:00Z",
+    "isPinned": true
+  },
+  {
+    "id": 2,
+    "content": "Prepare custom pricing proposal for Innovate Labs - they need volume discount",
+    "createdAt": "2024-01-20T12:15:00Z",
+    "isPinned": false
+  },
+  {
+    "id": 3,
+    "content": "Global Corp demo scheduled for next Tuesday - prepare technical presentation",
+    "createdAt": "2024-01-19T16:45:00Z",
+    "isPinned": true
+  },
+  {
+    "id": 4,
+    "content": "Research Streamline Co's current CRM solution before qualification call",
+    "createdAt": "2024-01-19T11:20:00Z",
+    "isPinned": false
+  },
+  {
+    "id": 5,
+    "content": "Send Digital Pro implementation timeline and onboarding checklist",
+    "createdAt": "2024-01-18T14:30:00Z",
+    "isPinned": false
+  },
+  {
+    "id": 6,
+    "content": "NextTech Ventures interested in portfolio-wide licensing - prepare bulk pricing",
+    "createdAt": "2024-01-18T10:45:00Z",
+    "isPinned": true
+  },
+  {
+    "id": 7,
+    "content": "Cloud Solutions engineering team wants technical deep-dive session",
+    "createdAt": "2024-01-17T13:20:00Z",
+    "isPinned": false
+  },
+  {
+    "id": 8,
+    "content": "Smart Analytics AI exploring AI-powered CRM features - schedule product team call",
+    "createdAt": "2024-01-17T09:30:00Z",
+    "isPinned": false
+  },
+  {
+    "id": 9,
+    "content": "RetailMax needs multi-location deployment strategy - involve implementation team",
+    "createdAt": "2024-01-16T15:15:00Z",
+    "isPinned": false
+  },
+  {
+    "id": 10,
+    "content": "FinTech Plus compliance requirements are critical - review security documentation",
+    "createdAt": "2024-01-16T12:00:00Z",
+    "isPinned": true
+  },
+  {
+    "id": 11,
+    "content": "HealthTech Solutions requires HIPAA compliance - schedule legal review",
+    "createdAt": "2024-01-15T14:45:00Z",
+    "isPinned": false
+  },
+  {
+    "id": 12,
+    "content": "CyberSec Corp has unique security requirements - document all specifications",
+    "createdAt": "2024-01-15T11:30:00Z",
+    "isPinned": false
+  }
+]

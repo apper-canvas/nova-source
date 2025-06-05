@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "TechFlow CRM Implementation",
+    "value": 125000,
+    "stage": "Proposal",
+    "contactId": 1,
+    "probability": 75,
+    "expectedCloseDate": "2024-02-15",
+    "owner": "Alex Johnson",
+    "notes": "Strong interest in enterprise features. Waiting for final approval from board."
+  },
+  {
+    "id": 2,
+    "title": "Innovate Labs Startup Package",
+    "value": 35000,
+    "stage": "Negotiation",
+    "contactId": 2,
+    "probability": 85,
+    "expectedCloseDate": "2024-02-01",
+    "owner": "Alex Johnson",
+    "notes": "Price sensitive but very interested. Considering quarterly payment plan."
+  },
+  {
+    "id": 3,
+    "title": "Global Corp Enterprise License",
+    "value": 450000,
+    "stage": "Contacted",
+    "contactId": 3,
+    "probability": 45,
+    "expectedCloseDate": "2024-03-30",
+    "owner": "Sarah Mitchell",
+    "notes": "Large enterprise deal. Need to involve technical team for demo."
+  },
+  {
+    "id": 4,
+    "title": "Streamline Co Integration",
+    "value": 85000,
+    "stage": "New",
+    "contactId": 4,
+    "probability": 25,
+    "expectedCloseDate": "2024-04-15",
+    "owner": "Michael Torres",
+    "notes": "Initial inquiry through website. Need qualification call."
+  },
+  {
+    "id": 5,
+    "title": "Digital Pro Small Business",
+    "value": 18000,
+    "stage": "Closed",
+    "contactId": 5,
+    "probability": 100,
+    "expectedCloseDate": "2024-01-15",
+    "owner": "Alex Johnson",
+    "notes": "Successfully closed. Implementation starting next week."
+  },
+  {
+    "id": 6,
+    "title": "NextTech Ventures Portfolio",
+    "value": 275000,
+    "stage": "Proposal",
+    "contactId": 6,
+    "probability": 60,
+    "expectedCloseDate": "2024-03-01",
+    "owner": "Sarah Mitchell",
+    "notes": "Interested in volume licensing for portfolio companies."
+  },
+  {
+    "id": 7,
+    "title": "Cloud Solutions Enterprise",
+    "value": 320000,
+    "stage": "Contacted",
+    "contactId": 7,
+    "probability": 55,
+    "expectedCloseDate": "2024-04-30",
+    "owner": "Michael Torres",
+    "notes": "Technical evaluation in progress. Strong engineering team interest."
+  },
+  {
+    "id": 8,
+    "title": "Smart Analytics AI Integration",
+    "value": 95000,
+    "stage": "New",
+    "contactId": 8,
+    "probability": 30,
+    "expectedCloseDate": "2024-05-15",
+    "owner": "Alex Johnson",
+    "notes": "Exploring AI-powered CRM features. Early stage discussion."
+  },
+  {
+    "id": 9,
+    "title": "RetailMax Multi-Location",
+    "value": 150000,
+    "stage": "Negotiation",
+    "contactId": 9,
+    "probability": 70,
+    "expectedCloseDate": "2024-02-28",
+    "owner": "Sarah Mitchell",
+    "notes": "Multi-location deployment. Discussing implementation timeline."
+  },
+  {
+    "id": 10,
+    "title": "FinTech Plus Compliance",
+    "value": 180000,
+    "stage": "Proposal",
+    "contactId": 10,
+    "probability": 65,
+    "expectedCloseDate": "2024-03-15",
+    "owner": "Michael Torres",
+    "notes": "Compliance requirements are critical. Reviewing security features."
+  },
+  {
+    "id": 11,
+    "title": "HealthTech HIPAA Solution",
+    "value": 210000,
+    "stage": "Contacted",
+    "contactId": 11,
+    "probability": 50,
+    "expectedCloseDate": "2024-04-01",
+    "owner": "Alex Johnson",
+    "notes": "HIPAA compliance is mandatory. Scheduled technical review."
+  },
+  {
+    "id": 12,
+    "title": "CyberSec Security Package",
+    "value": 125000,
+    "stage": "New",
+    "contactId": 12,
+    "probability": 35,
+    "expectedCloseDate": "2024-05-30",
+    "owner": "Sarah Mitchell",
+    "notes": "Security-focused CRM needs. Initial requirements gathering."
+  }
+]
