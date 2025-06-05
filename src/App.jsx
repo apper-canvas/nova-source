@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
-import Home from './pages/Home'
+import HomePage from './pages/HomePage'
 import NotFound from './pages/NotFound'
 import 'react-toastify/dist/ReactToastify.css'
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50">
       <Routes>
-        <Route path="/" element={<Home />} />
+<Route path="/" element={<HomePage />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
       
